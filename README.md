@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/msr5464/Basic-Automation-Framework/refs/heads/master/Logo-full.png" title="Powered by Thanos and created by Mukesh Rajput" height="50">
-
-# Selenium & RestAssured - Automation Framework
+# <a href="https://www.linkedin.com/in/mukesh-rajput/"><img align="right" src="https://raw.githubusercontent.com/msr5464/Selenium-Automation-Framework/refs/heads/master/Logo-full.png" alt="Mukesh" height="40"></a> Selenium & RestAssured - Automation Framework
 This is a modern Hybrid Automation Framework created using properties of `Page Object Model` and `Data Driven` automation frameworks.
 The framework is built using the latest Selenium 4 features with Java 21, TestNG and Maven for Web-based automation, integrated with Appium for Mobile App automation and also integrated with Rest Assured for API Automation execution.
 
@@ -176,3 +174,17 @@ The framework includes comprehensive API testing capabilities:
 - **No API Key Required**: Ready-to-use endpoints
 - **CRUD Operations**: Full user management testing
 - **JSON Validation**: Comprehensive response validation
+
+---
+---
+
+<div align="center">
+
+**Mukesh Rajput** · [LinkedIn](https://www.linkedin.com/in/mukesh-rajput/) · [Portfolio](https://msr5464.github.io/)
+
+<sub>Made with ❤️ for the Engineering Team</sub>
+
+</div>
+
+---
+---
