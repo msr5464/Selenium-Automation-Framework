@@ -175,6 +175,10 @@ The framework includes comprehensive API testing capabilities:
 - **CRUD Operations**: Full user management testing
 - **JSON Validation**: Comprehensive response validation
 
+## License
+
+Apache 2.0 (see [LICENSE](LICENSE))
+
 ---
 ---
 
